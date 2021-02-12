@@ -1,0 +1,16 @@
+C:\Users\Azgalor-\source\repos\proyect\Datos\bin\Debug\Datos.dll
+C:\Users\Azgalor-\source\repos\proyect\Datos\bin\Debug\Datos.pdb
+C:\Users\Azgalor-\source\repos\proyect\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\Azgalor-\source\repos\proyect\Datos\obj\Debug\Datos.dll
+C:\Users\Azgalor-\source\repos\proyect\Datos\obj\Debug\Datos.pdb
+G:\proyect\Datos\bin\Debug\Datos.dll
+G:\proyect\Datos\bin\Debug\Datos.pdb
+G:\proyect\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+G:\proyect\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+G:\proyect\Datos\obj\Debug\Datos.dll
+G:\proyect\Datos\obj\Debug\Datos.pdb
+C:\Users\Alexis Villegas\Documents\Alexis\proyect\Datos\bin\Debug\Datos.dll
+C:\Users\Alexis Villegas\Documents\Alexis\proyect\Datos\bin\Debug\Datos.pdb
+C:\Users\Alexis Villegas\Documents\Alexis\proyect\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Alexis Villegas\Documents\Alexis\proyect\Datos\obj\Debug\Datos.dll
+C:\Users\Alexis Villegas\Documents\Alexis\proyect\Datos\obj\Debug\Datos.pdb

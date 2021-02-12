@@ -1,0 +1,24 @@
+C:\Users\Azgalor-\source\repos\proyect\Negocios\bin\Debug\Negocios.dll
+C:\Users\Azgalor-\source\repos\proyect\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Azgalor-\source\repos\proyect\Negocios\bin\Debug\Datos.dll
+C:\Users\Azgalor-\source\repos\proyect\Negocios\bin\Debug\Datos.pdb
+C:\Users\Azgalor-\source\repos\proyect\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+C:\Users\Azgalor-\source\repos\proyect\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\Azgalor-\source\repos\proyect\Negocios\obj\Debug\Negocios.dll
+C:\Users\Azgalor-\source\repos\proyect\Negocios\obj\Debug\Negocios.pdb
+G:\proyect\Negocios\bin\Debug\Negocios.dll
+G:\proyect\Negocios\bin\Debug\Negocios.pdb
+G:\proyect\Negocios\bin\Debug\Datos.dll
+G:\proyect\Negocios\bin\Debug\Datos.pdb
+G:\proyect\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+G:\proyect\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+G:\proyect\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+G:\proyect\Negocios\obj\Debug\Negocios.dll
+G:\proyect\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Alexis Villegas\Documents\Alexis\proyect\Negocios\bin\Debug\Negocios.dll
+C:\Users\Alexis Villegas\Documents\Alexis\proyect\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Alexis Villegas\Documents\Alexis\proyect\Negocios\bin\Debug\Datos.dll
+C:\Users\Alexis Villegas\Documents\Alexis\proyect\Negocios\bin\Debug\Datos.pdb
+C:\Users\Alexis Villegas\Documents\Alexis\proyect\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Alexis Villegas\Documents\Alexis\proyect\Negocios\obj\Debug\Negocios.dll
+C:\Users\Alexis Villegas\Documents\Alexis\proyect\Negocios\obj\Debug\Negocios.pdb
